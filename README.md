@@ -13,7 +13,7 @@ thay can do for them to further grow their online presence.
 https://nsmall94.github.io/Horiseon/
 
 ## Screenshot
-![Horiseon Webpage screenshot](assets/imaages/screenshot.png)
+![Horiseon Webpage screenshot](assets/images/screenshot.png)
 
 ## contribution
 Madde By Nick Small
